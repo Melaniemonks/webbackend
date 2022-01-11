@@ -1,0 +1,23 @@
+{
+  "name": "webbackend",
+  "version": "1.0.0",
+  "description": "This is my folder for the web development course",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Melaniemonks/webbackend.git"
+  },
+  "author": "Melanie Monkurai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Melaniemonks/webbackend/issues"
+  },
+  "homepage": "https://github.com/Melaniemonks/webbackend#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
